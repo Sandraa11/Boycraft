@@ -1,7 +1,7 @@
 {
   "AdsController": {
 
-    "AdNetwork": "admob",
+    "AdNetwork": "Applovin",
 
     "AdMob_ID": "ca-app-pub-5205399128526063~1464476861",
     "AdMob_Banner": "ca-app-pub-5205399128526063/5069552097",
@@ -15,10 +15,10 @@
     "Facebook_Native"         : "",
     "Facebook_RewardAd"       : "",
     
-    "Applovin_Banner"         : "",
-    "Applovin_InterstitialAd" : "",
+    "Applovin_Banner"         : "dcc34d672dc2eee3",
+    "Applovin_InterstitialAd" : "f358e715a772a818",
     "Applovin_Native"         : "",
-    "Applovin_RewardAd"       : "",
+    "Applovin_RewardAd"       : "1805335d62c4bb3e",
 
     "Unity_GameID"            : "",
     "Unity_Banner"            : "",
